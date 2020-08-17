@@ -19,3 +19,4 @@ console.log('Order total is: ', total);
 
 // for .. of loop is useful for going through an array start to finish
 // Not as powerful as a tradtitional for loop
+
